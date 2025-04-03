@@ -34,6 +34,9 @@
 - **React.js**
 - **Tailwind CSS**
 
+## Screenshots
+
+![App Screenshot](./src/assets/screenshot.png)
 #
 
 ### 3. 100-Word Client Email for Safe Delivery Solution
