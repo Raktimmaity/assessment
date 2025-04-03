@@ -28,7 +28,7 @@
 ✅ Minimalist & Mobile-Friendly – Ensures fast loading. Here i use the lazy loading functionality.
 
 #### 🌐 Live Demo
-- 🔗 **Hosted Link:** [YOUR_HOSTED_LINK]
+- 🔗 **Hosted Link:** [YOUR_HOSTED_LINK](https://aqualuxejewelry-raktimmaitys-projects.vercel.app/)
 
 #### 🚀 Technologies Used
 - **React.js**
